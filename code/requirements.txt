@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+sklearn
+imblearn
+python-json-logger
+boto3
